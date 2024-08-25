@@ -37,9 +37,15 @@
     .w-15{
         width: 30%;
     }
+    .pt{
+        padding-top: 35px;
+    }
 }
 .b-gr{
     border: 1.5px solid #2C742F;
+}
+.b-gr1{
+    border: 1px solid #00B207;
 }
 .t-gr{
     color: #2C742F;
@@ -62,4 +68,63 @@
 }
 .text-8{
     font-size:x-small;
+}
+.discount-container{
+    background-image: url(./images/discount.jpg);
+    height: 300px;
+}
+.insta1{
+    background-image: url(./images/insta1.png);
+    height: 170px;
+}
+.insta2{
+    background-image: url(./images/insta2.png);
+    height: 170px;
+}
+.insta3{
+    background-image: url(./images/insta3.png);
+    height: 170px;
+}
+.insta4{
+    background-image: url(./images/insta4.png);
+    height: 170px;
+}
+.insta5{
+    background-image: url(./images/insta5.png);
+    height: 170px;
+}
+.insta6{
+    background-image: url(./images/insta6.png);
+    height: 170px;
+}
+.border-bottom{
+    border-bottom: 2px solid #20B526;
+}
+.border-bottom-2{
+    border-bottom: 1px solid gray;
+}
+/* contact css */
+.contact-main-header{
+    background-image: url(./images/contact-header.png);
+    height: 90px;
+}
+.map{
+    background-image: url(./images/map.png);
+    height: 250px;
+}
+.blog-main-header{
+    background-image: url(./images/blog-header.png);
+    height: 90px;
+}
+.blog-gallery{
+    height: 85px;
+}
+.single-blog-main-header{
+    background-image: url(./images/Breadcrumbs.png);
+    height:90px;
+}
+.discount-single-blog{
+    background-image: url(./images/single-blog-4.png);
+    height: 180px;
+    background-size: cover;
 }
